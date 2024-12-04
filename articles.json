@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Sample Article",
+    "content": "This is a sample article about technology.",
+    "tags": [
+      "tech",
+      "sample"
+    ],
+    "date": "2024-12-03T18:24:23.990Z"
+  },
+  {
+    "id": 2,
+    "title": "Sample Article",
+    "content": "This is a sample article about technology.",
+    "tags": [
+      "tech",
+      "sample"
+    ],
+    "date": "2024-12-04T08:37:02.214Z"
+  },
+  {
+    "id": 3,
+    "title": "First Article",
+    "content": "This is an article about Node.js.",
+    "tags": [
+      "nodejs",
+      "backend"
+    ],
+    "date": "2024-12-04T08:58:00.559Z"
+  }
+]
